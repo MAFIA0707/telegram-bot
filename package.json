@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon bot.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "@grammyjs/storage-free": "^2.4.1",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "grammy": "^1.20.3",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2"
+  }
+}
